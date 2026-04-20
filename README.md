@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafshan</h1>
 
 <p align="center">
-  <img src="https://herokuapp.com" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=600&lines=Backend+Engineer;LLMOps+Specialist;RAG+Pipeline+Architect;Vector+Search+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,34 +29,48 @@ Backend Engineer specializing in building scalable systems and **LLMOps** pipeli
 
 ---
 
-# 🛠️ **Skills & Tech Stack**
-
 ### 🔹 AI & LLMOps (The Core)
 <p>
-  <img src="https://skillicons.dev" />
-  <!-- Manual addition for Vector tools -->
-  <a href="#"><img src="https://shields.io" /></a>
-  <a href="#"><img src="https://shields.io" /></a>
-  <a href="#"><img src="https://shields.io" /></a>
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?logo=data:image/svg+xml;base64,PHN2Zy..." />
+  <img src="https://img.shields.io/badge/Vector_Search-4285F4?logo=google&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vector_DB-00C7B7?logo=pinecone&logoColor=fff" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Pinecone-000?logo=pinecone&logoColor=fff" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FF6B6B?logo=data:image/svg+xml;base64,PHN2Zy..." />
 </p>
 
-### 🔹 Backend & Systems
+### 🔹 Backend
 <p>
-  <img src="https://skillicons.dev" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
 </p>
 
 ### 🔹 DevOps & Deployment
 <p>
-  <img src="https://skillicons.dev" />
-  <a href="#"><img src="https://shields.io" /></a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff" />
 </p>
 
 ---
 
 # 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inspiremedaily&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inspiremedaily&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafshanDev90&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafshanDev90&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafshanDev90&layout=compact&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafshanDev90&theme=react-dark&hide_border=true" />
 </p>
 
 ---
