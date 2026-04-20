@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafshan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=700&lines=Backend+Developer;Machine+Learning+Enthusiast;FastAPI+%7C+Node.js+%7C+MERN;Building+Scalable+Systems" />
+  <img src="https://herokuapp.com" />
 </p>
 
 <p align="center">
@@ -10,61 +10,45 @@
 
 ---
 
-### 🌱 I’m currently learning
-- **MERN Stack**, **Advanced FastAPI**, **Cloud Deployment**
+### 🚀 Summary
+Backend Engineer specializing in building scalable systems and **LLMOps** pipelines. I bridge the gap between heavy-duty backend infrastructure (Node.js/FastAPI) and AI production environments, focusing on **RAG (Retrieval-Augmented Generation)**, Vector Search, and high-performance database management.
 
-### 💬 Ask me about
-- **Backend Development**, **REST APIs**, **FastAPI**, **Node.js**, **MERN**  
-- **Machine Learning**, **Numpy/Pandas**, **Model Training**, **TensorFlow**, **OpenCV**
+### 🛠️ Currently Focused On
+- **LLMOps:** Deploying and monitoring RAG pipelines and vector search indices.
+- **Search Optimization:** Implementing Semantic & Hybrid search using **ElasticSearch** and Vector Databases.
+- **Infrastructure:** Managing production environments on **Linux VPS** using **Nginx** and **PM2**.
+
+### 💬 Let's talk about
+- **Advanced Backend:** Scalable API design, Microservices, and Large-scale Data Migration.
+- **AI Infrastructure:** Vector Embeddings, Chunking strategies, and Prompt Engineering.
+- **DevOps:** Linux hardening, Bash scripting, and Nginx reverse proxies.
 
 ### 📫 How to reach me
-- **Email:** inspiremedaily47@gmail.com  
 - **LinkedIn:** [Rafshan Jani](https://www.linkedin.com/in/rafshan-jani-4a5510286/)
-
-### ⚡ Fun fact
-- I debug faster in complete silence 🤫
+- **Email:** rafshan.dev@gmail.com
 
 ---
 
 # 🛠️ **Skills & Tech Stack**
 
-### 🔹 Programming Languages
+### 🔹 AI & LLMOps (The Core)
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
+  <img src="https://skillicons.dev" />
+  <!-- Manual addition for Vector tools -->
+  <a href="#"><img src="https://shields.io" /></a>
+  <a href="#"><img src="https://shields.io" /></a>
+  <a href="#"><img src="https://shields.io" /></a>
 </p>
 
-### 🔹 Backend Development
+### 🔹 Backend & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,nestjs,nginx" />
+  <img src="https://skillicons.dev" />
 </p>
 
-### 🔹 Databases
+### 🔹 DevOps & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
-
-### 🔹 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pytorch" />
-</p>
-
-### 🔹 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws" />
-</p>
-
-### 🔹 Frontend (Basic)
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
----
-
-# 🌐 **Connect With Me**
-<p align="left">
-<a href="https://www.linkedin.com/in/rafshan-jani-4a5510286/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/inspiremedaily"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.twitter.com/inspiremedaily"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <img src="https://skillicons.dev" />
+  <a href="#"><img src="https://shields.io" /></a>
 </p>
 
 ---
@@ -77,10 +61,11 @@
 
 ---
 
-# 🏆 **Achievements & Projects**
-- 🚀 398GB+ MongoDB Production Data Import [Repo](https://github.com/inspiremedaily/MongoDB-398GB-Data-Import)  
-- 🔥 Built scalable FastAPI & MERN applications  
-- 🎓 Contributed to Open Source projects  
+# 🏆 **Key Impact Projects**
+- 🧠 **Production RAG Pipelines:** Built end-to-end LLM applications with custom vector store integrations.
+- 🚀 **398GB+ MongoDB Migration:** Engineered a high-performance data import strategy for production-grade datasets. [View Repo](https://github.com/inspiremedaily/MongoDB-398GB-Data-Import)
+- 🌐 **VPS Infrastructure:** Designed and deployed scalable Nginx/PM2 environments for FastAPI/Node.js services.
 
 ---
 
+"Simplicity is the soul of efficiency."
