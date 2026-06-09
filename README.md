@@ -27,33 +27,7 @@ Backend Engineer specializing in building scalable systems and **LLMOps** pipeli
 - **LinkedIn:** [Rafshan Jani](https://www.linkedin.com/in/rafshan-jani-4a5510286/)
 - **Email:** rafshan.dev@gmail.com
 
----
-
-### 🔹 AI & LLMOps (The Core)
-<p>
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?logo=data:image/svg+xml;base64,PHN2Zy..." />
-  <img src="https://img.shields.io/badge/Vector_Search-4285F4?logo=google&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vector_DB-00C7B7?logo=pinecone&logoColor=fff" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Pinecone-000?logo=pinecone&logoColor=fff" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff" />
-  <img src="https://img.shields.io/badge/LlamaIndex-FF6B6B?logo=data:image/svg+xml;base64,PHN2Zy..." />
-</p>
-
-### 🔹 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
-</p>
-
-### 🔹 DevOps & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+c="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff" />
 </p>
 
@@ -74,12 +48,3 @@ Backend Engineer specializing in building scalable systems and **LLMOps** pipeli
 </p>
 
 ---
-
-# 🏆 **Key Impact Projects**
-- 🧠 **Production RAG Pipelines:** Built end-to-end LLM applications with custom vector store integrations.
-- 🚀 **398GB+ MongoDB Migration:** Engineered a high-performance data import strategy for production-grade datasets. [View Repo](https://github.com/inspiremedaily/MongoDB-398GB-Data-Import)
-- 🌐 **VPS Infrastructure:** Designed and deployed scalable Nginx/PM2 environments for FastAPI/Node.js services.
-
----
-
-"Simplicity is the soul of efficiency."
