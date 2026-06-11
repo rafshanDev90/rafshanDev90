@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafshan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=600&lines=Backend+Engineer;LLMOps+Specialist;RAG+Pipeline+Architect;Vector+Search+Enthusiast" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,25 +11,25 @@
 ---
 
 ### 🚀 Summary
-Backend Engineer specializing in building scalable systems and **LLMOps** pipelines. I bridge the gap between heavy-duty backend infrastructure (Node.js/FastAPI) and AI production environments, focusing on **RAG (Retrieval-Augmented Generation)**, Vector Search, and high-performance database management.
+Lead Backend & Infrastructure Engineer specializing in scaling high-performance search systems, structuring clean decoupled APIs, and automating AI-native developer workflows. 
+
+* **Massive Scale Optimization**: Migrated 60M+ unstructured records from compressed flat files into a self-hosted Elasticsearch cluster, cutting query latencies from 105 seconds to sub-2 seconds (98% drop).
+* **Decoupled Architecture**: Proven production delivery using the 5-Layer Pattern (Controller → Service → Repository → Cache → Queue) with BullMQ, Express, and FastAPI.
+* **Infrastructure Engineering**: Complete ownership of production environments on self-hosted Ubuntu Linux VPS nodes utilizing Nginx proxies, Docker setups, and systemd process tracking.
 
 ### 🛠️ Currently Focused On
-- **LLMOps:** Deploying and monitoring RAG pipelines and vector search indices.
-- **Search Optimization:** Implementing Semantic & Hybrid search using **ElasticSearch** and Vector Databases.
-- **Infrastructure:** Managing production environments on **Linux VPS** using **Nginx** and **PM2**.
+- **DevEx Automation**: Customizing terminal-native coding pipelines using Aider and Claude Code platforms to condense 3-day module creation targets into 4 hours.
+- **Search Optimization**: Implementing high-performance search configurations using **Elasticsearch**, Redis, and customized database caching strategies.
+- **Infrastructure & Observability**: Managing self-hosted production nodes via **Linux VPS**, Nginx reverse proxies, and centralized systemd logging tools.
 
 ### 💬 Let's talk about
-- **Advanced Backend:** Scalable API design, Microservices, and Large-scale Data Migration.
-- **AI Infrastructure:** Vector Embeddings, Chunking strategies, and Prompt Engineering.
-- **DevOps:** Linux hardening, Bash scripting, and Nginx reverse proxies.
+- **Advanced Backend:** Scalable 5-layer API design, asynchronous task workers (BullMQ), and large-scale data migrations.
+- **AI Infrastructure:** Local developer environment pipelines, code scaffolding workflows, and terminal engineering automation.
+- **DevOps:** VPS deployment, Linux service hardening, Docker containers, and live log routing.
 
 ### 📫 How to reach me
 - **LinkedIn:** [Rafshan Jani](https://www.linkedin.com/in/rafshan-jani-4a5510286/)
 - **Email:** rafshan.dev@gmail.com
-
-c="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff" />
-</p>
 
 ---
 
